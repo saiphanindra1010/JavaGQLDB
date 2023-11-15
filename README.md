@@ -9,4 +9,4 @@ Public
 
 ---
 
-JavaRESTDB is a Java based Database which a native REST endpoint for CRUD operations.
+JavaGQLDB is a Java based Database which uses GraphQL
